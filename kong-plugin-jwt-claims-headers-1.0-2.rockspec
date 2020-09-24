@@ -2,7 +2,7 @@ package = "kong-plugin-jwt-claims-headers"
 version = "1.0-2"
 source = {
   url = "git+https://github.com/wshirey/kong-plugin-jwt-claims-headers.git"
-  tag = "V1.0-2"
+  tag = "V1.0-3"
 }
 description = {
   summary = "A Kong plugin that will expose JWT claims as request headers",
